@@ -1,4 +1,4 @@
-🛍️ Customer Shopping Behaviour Analysis
+#🛍️ Customer Shopping Behaviour Analysis
 Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
 
 
